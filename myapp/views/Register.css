@@ -1,0 +1,58 @@
+body {
+    background-image: url('bimbo.jpg');
+    background-size: cover;
+    background-position: right ;
+    background-repeat: no-repeat;
+}
+
+.form-signup {
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+    background-color: white;
+}
+
+.form-signup h2 {
+    position: relative;
+    left: 25px;
+}
+
+.col {
+    color: rgb(244, 180, 19);
+}
+
+.form-signup p {
+    position: relative;
+    left: 25px;
+    font-size: 70%;
+    color: rgb(128, 128, 128);
+}
+
+.form-group {
+    position: relative;
+    left: 25px;
+    width: 85%;
+    font-size: 90%;
+}
+
+.form-group .btn {
+    position: relative;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(244, 180, 19);
+    border-color: rgb(244, 180, 19);
+    bottom: 10px;
+}
+
+.form-group a {
+    text-decoration: none;
+    color: rgb(244, 180, 19);
+}
+
+.form-group p {
+    position: relative;
+    left: 115px;
+    bottom: 20px;
+    font-size: 90%;
+    color: black;
+}

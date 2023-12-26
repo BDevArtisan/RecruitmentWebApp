@@ -1,0 +1,13 @@
+body {
+    background-color: #F8F9F9;
+    background-size: cover;
+    background-position: right ;
+    background-repeat: no-repeat;
+}
+nav {
+    background-color: rgb(244, 180, 19);
+}
+.btn{
+    background-color: rgb(244, 180, 19);
+    border-color: rgb(244, 180, 19);
+}

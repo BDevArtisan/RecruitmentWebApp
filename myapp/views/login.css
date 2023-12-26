@@ -1,0 +1,63 @@
+body {
+    background-image: url('bimbo.jpg');
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.col-6 h1 {
+    position: relative;
+    color: black;
+    margin-right: 10px;
+    bottom: 95px;
+}
+
+.col-6 img {
+    position: relative;
+    width: 37%;
+    bottom: 68px;
+}
+
+.col {
+    color: rgb(244, 180, 19);
+}
+
+
+
+.card-title {
+    position: relative;
+    font-size: 200%;
+    bottom: 10px;
+}
+
+.card-under-title {
+    position: relative;
+    font-size: 70%;
+    bottom: 20px;
+    left: 1px;
+    color: rgb(128, 128, 128);
+}
+
+.form-group {
+    position: relative;
+    left: 20px;
+    width: 80%;
+}
+
+.form-group .btn {
+    position: relative;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(244, 180, 19);
+    border-color: rgb(244, 180, 19);
+}
+
+.form-group a {
+    text-decoration: none;
+    color: rgb(244, 180, 19);
+}
+
+.form-group p {
+    position: relative;
+    left : 30%;
+}
